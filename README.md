@@ -17,3 +17,12 @@ Report repair condition
 Get account information for pay through App    
 chat (get manager/owner's social media contact info)    
 
+## Pre-requirements    
+NodeJS     
+Watchman (for mac user)    
+JDK    
+Expo CLI     
+
+
+
+

@@ -1,2 +1,2 @@
-[# HackTheHeights](http://hacktheheights.com/)   
+# [HackTheHeights](http://hacktheheights.com/)   
 

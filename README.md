@@ -21,7 +21,9 @@ chat (get manager/owner's social media contact info)
 NodeJS     
 Watchman (for mac user)    
 JDK    
-Expo CLI     
+Expo CLI (simulator on phone) / Snack (simulator in web browser)   
+
+
 
 
 

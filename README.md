@@ -25,7 +25,8 @@ Expo CLI (simulator on phone) / Snack (simulator in web browser)
 #### Reference   
 Learn from: 
 https://facebook.github.io/react-native/    
-http://www.reactnative.com/   
+http://www.reactnative.com/    
+https://unsplash.com/developers    
 https://github.com/nathvarun/Wallpaper-App-React-Native     
 
 

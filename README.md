@@ -19,7 +19,7 @@ JDK
 Expo CLI (simulator on phone) / Snack (simulator in web browser)   
 
 ## Download   
-
+Try our app in snack: https://snack.expo.io/@gentlezhou/0dcba1     
 
 
 #### Reference   

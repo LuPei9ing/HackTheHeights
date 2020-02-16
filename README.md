@@ -18,7 +18,7 @@ Watchman (for mac user)
 JDK    
 Expo CLI (simulator on phone) / Snack (simulator in web browser)   
 
-## Download   
+## Try it    
 Try our app in snack: https://snack.expo.io/@gentlezhou/0dcba1     
 
 

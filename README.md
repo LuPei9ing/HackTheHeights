@@ -29,6 +29,9 @@ http://www.reactnative.com/
 https://unsplash.com/developers    
 https://github.com/nathvarun/Wallpaper-App-React-Native     
 
+#### Reference
+Zhou Shen, Peiqing Lu, Gen Song
+
 
 
 

@@ -1,13 +1,16 @@
 # [HackTheHeights](http://hacktheheights.com/)   
 
 ## What is this app?    
-"Wish list for to-do plan in dream places around the world" phone app (IOS & Andrioid)     
+A wall-paper app for phone (IOS & Android)      
 Language: React Native     
 
 ## User stories   
-### For prople who have plan for travelling    
-A place for recording wish list about to-do stuff in dream places aroud the world.    
-Users can record multiple places they would like to travel, and inside each city, they can write down what they would like to do as a wish list.    
+### For prople who enjoy wall paper for phone    
+Our App help people find wall paper for phone.   
+With so many resources on Internet, people are hard to find correct resolution, size; we found an API provides proper wall paper for them.  
+Wall paper images from this API are all pretty and in high-resolution.    
+Our App provides convenient and powerful tool for these people.   
+
 
 ## Pre-requirements    
 NodeJS     
@@ -15,7 +18,7 @@ Watchman (for mac user)
 JDK    
 Expo CLI (simulator on phone) / Snack (simulator in web browser)   
 
-
+## Download   
 
 
 

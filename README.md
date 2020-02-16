@@ -14,7 +14,7 @@ Our App provides convenient and powerful tool for these people.
 
 ## Pre-requirements    
 NodeJS     
-Watchman (for mac user)    
+Watchman (for mac user)     
 JDK    
 Expo CLI (simulator on phone) / Snack (simulator in web browser)   
 
